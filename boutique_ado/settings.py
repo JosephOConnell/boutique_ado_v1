@@ -25,7 +25,8 @@ SECRET_KEY = 'p@ei#69*b*zz3u4yie-$()@cy^l(+x9&@6ypx+r0lm(3%_9hr7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-josephoconn-boutiqueado-k4ytbljg5e6.ws-us110.gitpod.io']
+ALLOWED_HOSTS = ['8000-josephoconn-boutiqueado-k4ytbljg5e6.ws-us110.gitpod.io',
+                '8000-josephoconn-boutiqueado-k4ytbljg5e6.ws-eu110.gitpod.io']
 
 
 # Application definition
